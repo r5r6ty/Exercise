@@ -24,11 +24,17 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Static Factory Method\Static Factory Method.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Factory Method\Factory Method.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Abstract Factory\Abstract Factory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stdafx.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="Exercise.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
